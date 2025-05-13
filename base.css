@@ -37,6 +37,7 @@ html{
 }
 .grid__column-2part_of10{
     width: 20%;
+    margin-bottom: 10px;
 }
 .modal__container{
     position: fixed;
